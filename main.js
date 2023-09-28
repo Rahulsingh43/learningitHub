@@ -1,1 +1,1 @@
-console.log("Push to GitHub");
+console.log("Push to Gitlab");
